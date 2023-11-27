@@ -1,0 +1,26 @@
+/*Nota: Si los digitos del mismo par son iguales #00 00 00 
+  Simplemente podemos escribir uno por cada par: #0 0 0
+  
+  Ejemplo 1:
+  Codigo normal: # ff ff ff
+  Codigo abreviacion: # f f f
+  
+  Ejemplo 2:
+  Codigo normal: # 00 ff 00
+  Codigo abrevicacion: # 0 f 0*/
+
+  div {
+    background-color: #00f; /*Codigo Normal: #0000ff*/
+  }
+
+  h2 {
+    color: #f00; /*Codigo Normal: #ff0000*/
+  }
+
+  img {
+    width: 300px;
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #0f0; /*Codigo Normal: #00ff00*/
+  }

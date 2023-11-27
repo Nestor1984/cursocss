@@ -1,0 +1,7 @@
+#titulo { /*El texto se va mostrar morado porque (EL ID TIENE PRIORIDAD SOBRE LA CLASE O SELECTORES DE TIPO, NO IMPORTA EL ORDEN EN EL CUAL ESCRIBAS EL ID)*/
+    color:purple;
+}
+
+.texto-azul {
+    color: blue;
+}

@@ -1,0 +1,17 @@
+/*Ejemplo 1:*/
+.texto-azul {
+    color: blue;
+}
+
+.texto-morado { /*CLASE CON PRIORIDAD POR QUE ES LA ULTIMA MODIFICACION*/
+    color: purple; /*El texto se va mostrar en morado, porque en CSS se prioriza la ultima clase (ESTA)*/
+}
+
+/*Ejemplo 2:*/
+.sin-subrayado { /*CLASE CON PRIORIDAD POR QUE (ES SELECTOR DE CLASE)*/
+    text-decoration:  none; /*none: sin subrayado*/
+}
+
+a {
+    text-decoration: purple wavy underline; /*purple: purpura, wavy: ondulado, underline: subrayado*/
+}

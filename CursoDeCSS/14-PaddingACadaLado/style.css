@@ -1,0 +1,17 @@
+div{ /*El div: Actua como un contenedor*/
+    background-color: crimson; /*La propiedad background-color: Sirve para agregarle un color de fondo al div*/
+}
+
+img{
+    width: 500px;
+    /*Para personalizar el borde en cada lado hacemos lo siguiente:*/
+
+    padding-top: 20px; /*La propiedad padding-top: Sirve para darle un margen al borde superior*/
+    padding-right: 15px; /*La propiedad padding-right: Sirve para darle un margen al borde derecho*/
+    padding-left: 10px; /*La propiedad padding-left: Sirve para darle un margen al borde izquierdo*/
+    padding-bottom: 10px; /*La propiedad padding-bottom: Sirve para darle un margen al borde inferior*/
+    background-color: yellow;
+    border-width: 2px; /*La propiedad border-width: Sirve para darle un tamano al borde de imagen*/
+    border-color: black; /*La propiedad border-color: Sirve para asignarle un color al borde*/
+    border-style: solid; /*La propiedad border-style: Sirve para darle un estilo al borde*/
+}

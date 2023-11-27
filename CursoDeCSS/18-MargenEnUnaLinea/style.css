@@ -1,0 +1,15 @@
+/*El margen: es la distancia entre el borde de un elemento y el borde de otros elementos*/
+div{ /*El div: Actua como un contenedor*/
+    background-color: crimson; /*La propiedad background-color: Sirve para agregarle un color de fondo al div*/
+}
+
+img{
+    width: 300px;
+    /*Para personalizar el borde en cada lado (en una sola linea) hacemos lo siguiente:*/
+
+    margin: 20px 15px 10px 5px; /*Para escribir los margenes en una sola linea (en sentido a las agujas del reloj) primero el margen superior, luego el margen derecho, luego el margen inferior y luego el margen izquierdo*/
+    background-color: yellow;
+    border-width: 2px; /*La propiedad border-width: Sirve para darle un tamano al borde de imagen*/
+    border-color: white; /*La propiedad border-color: Sirve para asignarle un color al borde*/
+    border-style: solid; /*La propiedad border-style: Sirve para darle un estilo al borde*/
+}

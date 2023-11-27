@@ -1,0 +1,8 @@
+h2 {
+    /*La propiedad font-family: define una familia de fuentes*/
+    /*Nota: Los que contengan espacios, deben escribirse entre comillas (por ejemplo: 
+    "Times New Roman")*/
+    font-family: Verdana; /*Como Verdana no tiene espacios, va sin comillas*/
+    
+}
+

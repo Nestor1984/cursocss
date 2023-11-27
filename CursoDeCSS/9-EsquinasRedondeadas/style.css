@@ -1,0 +1,4 @@
+.foto-de-miranda-cosgrove{
+    width: 500px; /*Propiedad width: (ancho) Es el ancho de la imagen*/
+    border-radius: 20px; /*Propiedad border-radius: (Borde del radio) Esta propiedad nos sirve para darle una forma redondeada a la imagen.*/
+}

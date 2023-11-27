@@ -1,0 +1,26 @@
+/*RGB
+- R: Reed
+- G: Green
+- B: Blue
+
+Vamos a usar tres numeros, el valor de cada uno de esos numeros va estar entre 0-255
+*/
+
+/*Ejemplo 1 (rgb):*/
+div{
+    background-color: rgb(0, 255, 255); /*Debemos invocar a la funcion rgb*/
+}
+
+/*Ejemplo 2 (rgb):*/
+h2{
+    color: rgb(255, 0, 0); /*Debemos invocar a la funcion rgb*/
+}
+
+/*Ejemplo 3 (rgba)*/
+a{
+    /*Cuando tenemos transparencia (rgb) pasa a (rgba), cuando especificamos un cuarto valor*/
+    color: rgba(255, 5, 80, 0.4);/*El cuarto argumento es de transparencia*/
+}
+
+
+/*NOTA: En COLOUR PICKER encuentras los valores RGB*/

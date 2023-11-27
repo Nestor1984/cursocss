@@ -1,0 +1,27 @@
+/*Recuerda: Que para invocar a las clases en css usabamos el (.) */
+
+/*Ahora para invocar a los id usamos el #*/
+
+#titulo-atributo-id{
+    font-size: 30px; /*La propiedad font-size: Sirve para asignarle un tamano a la letra*/
+    color: green; /*La propiedad green: Sirve para asignarle un color al elemento html (En este caso headding 2)*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif /*La propiedad font-family: Sirve para dar el tipo de letra*/
+}
+
+#imagen-de-chalamet{
+    width: 400px;/*La propiedad width: Sirve para darle un ancho a la imagen*/
+    border-radius: 50%; /*Para redondear la imagen*/
+    border-width: 5px; /*La propiedad border-width: Sirve para dar un ancho al borde */
+    border-style: solid; /*La propiedad border-style: Sirve para darle estilo al borde*/
+    border-color: brown; /*La propiedad border-color: Sirve para darle color al borde*/
+}
+
+#lista-no-ordenada{
+    font-size: 15px; /*La propiedad font-size: Sirve para asignarle un tamano a la letra*/
+    color: blueviolet; /*La propiedad green: Sirve para asignarle un color al elemento html (En este caso headding 2)*/
+}
+
+#lista-ordenada{
+    font-size: 18px; /*La propiedad font-size: Sirve para asignarle un tamano a la letra*/
+    font-family: Arial, Helvetica, sans-serif /*La propiedad font-family: Sirve para dar el tipo de letra*/
+}

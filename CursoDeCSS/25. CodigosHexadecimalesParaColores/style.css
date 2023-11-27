@@ -1,0 +1,29 @@
+/* Hexadecimal Code*/
+
+/* Posibles digitos: 0-9 A-F -----> (LA "A VENDRIA REPRESENTANDO AL 10"....)*/
+
+/* # 00  00  00 ------> (NUMERO HEXADECIMAL)
+   Rojo Verde Azul
+*/
+
+
+/*Ejemplo:*/
+div {
+    background-color: #0000ff; /*Color blue: en hexadecimal*/
+}
+
+h2 {
+    color: #eba234; /*Color naranja amarillento: en hexadecimal*/
+}
+
+/*Ejemplo para imagen:*/
+
+img {
+    width: 400px; /*Ancho de la imagen*/
+    border-radius: 50%; /*Para redondear la imagen*/
+    border-width: 3px; /*Ancho del borde*/
+    border-style: solid; /*Estilo del borde*/
+    border-color: #eb4034; /*Color del borde*/
+}
+
+/* NOTA: si buscas COLOR PICKER en la web, ENCUENTRAS VARIOS COLORES*/

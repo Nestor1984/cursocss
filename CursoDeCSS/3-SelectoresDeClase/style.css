@@ -1,0 +1,14 @@
+/* Nota: Para hacer referencia en css a la clase antes debemos agregar un punto luego el nombre de la clase
+Ejemplo: .lista-de-numeros */
+
+.lista-de-numeros{
+    color: chocolate;
+}
+
+.lista-de-dias{
+    color: chocolate;
+}
+
+.parrafo-de-prueba{
+    color: chocolate;
+}  

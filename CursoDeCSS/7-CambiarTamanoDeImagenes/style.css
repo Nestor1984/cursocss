@@ -1,0 +1,11 @@
+/*La propiedad width: En espanol significa ancho*/
+
+/*Ejemplo con selectores de tipo*/
+img {
+    width: 200px;
+}
+
+/*Ejemplo con selectores de clase*/
+.imagen-de-cruella{
+    width: 300px;
+}

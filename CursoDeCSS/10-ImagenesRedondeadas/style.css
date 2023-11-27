@@ -1,0 +1,4 @@
+.imagen-de-miranda{
+    width: 300px; /*La propiedad width: (Ancho) Sirve para definir el ancho de la imagen*/
+    border-radius: 50%; /*Para hacer que una imagen parezca un circulo, utilizamos un porcentaje de 50%*/
+}

@@ -1,0 +1,16 @@
+/*Vamos a seleccionar todos los elementos de tipo img que tengan el atributo alt*/
+img[alt]{
+    border-radius: 50%; /*Vamos a hacer que la imagen sea redondeada*/
+}
+
+/*Vamos a seleccionar todos los elementos (input) que tengan el atributo type como radio*/
+[type="radio"]{
+    margin: 5px;
+}
+
+/*Vamos a seleccionar todos los elementos de tipo a que tengan atributo href con el valor: "https://www.freecodecamp.org/learn/2022/responsive-web-design/"*/
+a[href="https://www.freecodecamp.org/learn/2022/responsive-web-design/"]{
+    color: green; /*Vamos a asignarle un color verde*/
+    text-decoration: none; /*La propiedad text-decoration: Significa decoracion de texto. El valor none: significa nada. (En otra palabras decimos que no queremos subrayado)*/
+    font-weight: bold; /*La propiedad font-weight: Font es la letra o la fuente y weight es peso. El valor bold: significa que sera negrita (En otras palabras decimos que vamos asignarle texto en negrita)*/
+}

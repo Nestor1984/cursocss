@@ -1,0 +1,20 @@
+/*
+  La propiedad width: Nos permite ponerle un ancho a la imagen
+  La propiedad border-width: (Width es ancho y border es borde) Nos permite ponerle un margen a nuestra imagen (especificando en px el tamano).
+  La propiedad border-color: Nos permite ponerle un color al margen.
+  La propiedad border-style: El estilo del borde.
+*/
+
+.gaga-bailando{
+    width: 400px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.gaga-rodando{
+    width: 400px;
+    border-width: 5px;
+    border-color: rebeccapurple;
+    border-style: none; /*None: Sirve para especificar que no queremos borde*/
+}

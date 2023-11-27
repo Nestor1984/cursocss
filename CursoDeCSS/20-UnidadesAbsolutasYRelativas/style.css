@@ -1,0 +1,30 @@
+#contenedor-principal { /*Invocamos al elemento con el id: contenedor-principal*/
+    color: white;
+    padding: 5px; /*La propiedad Padding: es la distancia entre el contenido del elemento y su borde*/
+    font-size: 15px; /*La propiedad font-size: es el tamano de la fuente (tamano de letra)*/
+    background-color: yellow;/*La propiedad background-color: es el color de fondo*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*La propiedad font-family: es el tipo de letra*/
+}
+
+.rectangulo {
+    padding: 5px; /*La propiedad Padding: es la distancia entre el contenido del elemento y su borde*/
+    margin: 5px;
+}
+
+/*Aqui estamos invocando al elemento con la clase: rectangulo px (recuerda que no es necesario invocar con el nombre completo)*/
+.px {
+    background-color: crimson;/*La propiedad background-color: es el color de fondo*/
+    width: 200px;
+}
+
+/*Aqui estamos invocando al elemento con la clase: rectangulo vw (recuerda que no es necesario invocar con el nombre completo)*/
+.vw {
+    background-color: darkmagenta;/*La propiedad background-color: es el color de fondo*/
+    width: 20vw;
+}
+
+/*Aqui estamos invocando al elemento con la clase: rectangulo em (recuerda que no es necesario invocar con el nombre completo)*/
+.em {
+    background-color: green;
+    width: 15em;
+}
